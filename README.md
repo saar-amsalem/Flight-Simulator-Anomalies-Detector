@@ -1,17 +1,9 @@
-## Getting Started
+## Overview
+This is a simple anomalies detector for flight simulator in Java !
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+input.txt used to demonstrate client input for the server.
+output.txt is what the "server" outputed for the client.
+expectedoutput.txt is what the expected output from the server should be. 
 
 ## Dependency Management
 
